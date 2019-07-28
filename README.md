@@ -1,5 +1,5 @@
 # Note-Taking-App
-A node.js project; it's a note-taking app that can be run from the terminal or command line.
+A node.js project; it's a note-taking app that can be run from the terminal or command line. Created with help from the Udemy Course "The Complete Node.js Developer Course (3rd Edition)"
 
 Before running the program, make sure to first do the below command to install the necessary dependencies:
 ```
